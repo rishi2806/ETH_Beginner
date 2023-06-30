@@ -8,7 +8,7 @@ This contract is designed to complete the requirements mentioned below-
 
 2. Balances addressing: In this contract we are using a mapping named as 'balances' to map address to their token balance.
 
-3. Mint Function: This function has two parameters- an address and a value. This function increases the total token supply the the value given in parameter and then update the balance of the sender's address accordingly.
+3. Mint Function: This function has two parameters- an address and a value. This function increases the total token supply by the value given in parameter and then update the balance of the sender's address accordingly.
 
 4. Burn Function: This function also uses two parameters same as the mint function but it work opposite to the mint function. This function is used to burn or destroy the total supply by  the given value and update the balance of the individual accordingly.
 
