@@ -1,5 +1,5 @@
 # MyToken
-This Solidity contract provides a basic implementation of a token contract with two functions i.e. minting and burning. This allows the users to create and destroy tokens, while maintaining the total supply and individual balances of the individuals.
+This Solidity contract provides a basic implementation of a token contract with two functions i.e. mint and burn. This allows the users to create and destroy tokens, while maintaining the total supply and individual balances of the individuals.
 
 ## Requirements
 This contract is designed to complete the requirements mentioned below-
